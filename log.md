@@ -72,3 +72,11 @@
 **Link to work:**
 1. [N/A]
 
+### Day 10: September 25, 2023
+***Today's Progress***: Worked on my python learning, submitted 1.3 and did a bit of reading on python use.
+
+**Thoughts:**
+
+**Link to work:**
+1. [Python work] (https://github.com/SethSingletary/python-for-web-developers)
+
